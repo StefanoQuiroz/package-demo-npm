@@ -1,5 +1,5 @@
 {
-  "name": "package-demo-npm",
+  "name": "@StefanoQuiroz/package-demo-npm",
   "version": "1.0.0",
   "description": "first package-npm",
   "main": "index.js",
